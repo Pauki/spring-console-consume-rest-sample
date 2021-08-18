@@ -1,0 +1,1 @@
+# spring-console-consume-rest-sample
